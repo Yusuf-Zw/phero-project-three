@@ -1,1 +1,1 @@
-# phero-project-three
+# Basic JavaScript problem solving
